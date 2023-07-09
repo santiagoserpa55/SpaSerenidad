@@ -1,0 +1,53 @@
+La empresa [Nombre de la Empresa], ubicada en la ciudad de Medellín, Antioquia, se dedica al cuidado de manos y pies en el sector de la belleza, utilizando productos de alta calidad.
+
+Actualmente, los procesos en el salón de belleza se realizan de forma manual. 
+En primer lugar, las citas se agendan a través de WhatsApp, donde el cliente indica el servicio deseado y envía fotos de referencia.
+En base a esta información, se realiza una cotización de precios. Una vez que el cliente está de acuerdo, se le solicita elegir entre recibir el servicio a domicilio o acudir al local para su atención.
+Al finalizar el trabajo, se realiza el cobro correspondiente y toda la información se registra en tablas de Excel. Cuando se requieren insumos adicionales, se realiza un recuento manual para reabastecer el inventario.
+
+Esta forma de operar ha generado las siguientes consecuencias negativas:
+1. Pérdida de dinero debido a la falta de eficiencia en los procesos.
+2. Baja eficiencia en la gestión de tiempo, lo que afecta tanto al cliente como al personal.
+3. Información poco confiable o incompleta almacenada en hojas de cálculo, lo cual dificulta la toma de decisiones y el análisis adecuado.
+4. Riesgo de agotar existencias de insumos de trabajo, lo que puede llevar a una interrupción del servicio y a una pérdida de oportunidades de negocio.
+
+Para superar estos desafíos y optimizar nuestras operaciones, buscamos desarrollar un software personalizado que se adapte a nuestras necesidades específicas. A continuación, se presentan los requisitos para el desarrollo de este software:
+
+Requisitos funcionales:
+
+1. Sistema de gestión de citas:
+   a. Capacidad para agendar citas de manera fácil y rápida, permitiendo al cliente seleccionar el servicio deseado.
+   b. Integración con WhatsApp para recibir y confirmar citas.
+   c. Generación automática de cotizaciones de precios basadas en las imágenes proporcionadas por el cliente.
+
+2. Gestión de servicios y precios:
+   a. Catálogo completo de servicios ofrecidos, con descripciones detalladas y precios actualizados.
+   b. Capacidad para agregar, modificar y eliminar servicios según sea necesario.
+
+3. Gestión de inventario:
+   a. Control de existencias de insumos y productos utilizados en los servicios.
+   b. Notificaciones automáticas cuando se requiera reabastecer el inventario.
+
+4. Facturación y pagos:
+   a. Generación automática de facturas y recibos para los clientes.
+   b. Registro de los pagos recibidos y seguimiento de los saldos pendientes.
+
+5. Informes y análisis:
+   a. Generación de informes sobre ventas, ingresos, servicios más populares, etc.
+   b. Análisis de datos para identificar patrones y oportunidades de crecimiento.
+
+Requisitos técnicos:
+
+1. El software debe ser desarrollado utilizando un lenguaje de programación adecuado y una arquitectura que garantice la escalabilidad y la seguridad de los datos.
+2. Interfaz de usuario intuitiva y fácil de usar para el personal y los clientes.
+3. Base de datos segura y confiable para almacenar la información del salón y de los clientes.
+4. Mecanismos de seguridad para proteger la privacidad de los datos, como autenticación de usuarios y encriptación de información confidencial.
+
+Entregables:
+
+1. Documentación técnica que incluya el diseño de la solución, diagramas de flujo y esquema de la base de datos.
+2. Software funcional que cumpla con los requisitos mencionados anteriormente.
+3. Sesiones de capacitación para el personal del salón sobre cómo utilizar el software correctamente.
+4. Soporte técnico durante un período acordado después de la entrega del software.
+
+Esperamos que este enunciado con los requisitos refleje adecuadamente las necesidades del salón de belleza y spa. Si tienes alguna pregunta o necesitas más detalles, no dudes en hacérmelo saber. Estamos emocionados de trabajar contigo para mejorar nuestros procesos y ofrecer una experiencia excepcional a nuestros clientes.
